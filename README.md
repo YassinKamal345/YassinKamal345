@@ -3,14 +3,6 @@
 
 - 🔭 I’m currently working on **my first keylogger**
 
-- 🌱 I’m currently learning **HTML, CSS, PHP**
-
-- 🤝 I’m looking for help with **Msfconsole**
-
-- 💬 Ask me about **Nmap**
-
-- 📫 How to reach me **gemas2100@gmail.com**
-
 - ⚡ Fun fact **I first got onto hacking when i first got booted off my internet playing games**
 
 <h3 align="left">Connect with me:</h3>
