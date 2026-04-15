@@ -24,8 +24,7 @@
 
 ## 🔭 About Me
 
-<p align="center">
-<table>
+<table align="center">
 <tr>
 <td width="70%" align="left">
 
@@ -44,7 +43,6 @@
 </td>
 </tr>
 </table>
-</p>
 
 ---
 
