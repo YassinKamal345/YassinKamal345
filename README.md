@@ -60,6 +60,19 @@
 
 ---
 
+## 🚀 Projects
+
+### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
+Simple Python-based keylogger for learning keystroke capture and system-level input handling.
+
+### 🌐 <a href="https://github.com/YassinKamal345/CV_html-css">Pentesting Lab</a>
+Personal CV website built with HTML and CSS to showcase skills, experience, and projects.
+
+### 🔐 <a href="(https://github.com/YassinKamal345/Multitool">Password Analyzer Tool</a>
+Batch-based multitool that provides quick access to frequently used tools and system shortcuts.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
