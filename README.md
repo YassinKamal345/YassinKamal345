@@ -63,14 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat&color=blue"/>
+  <img height="150"
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
 </p>
