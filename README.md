@@ -24,9 +24,10 @@
 
 ## 🔭 About Me
 
+<p align="center">
 <table>
 <tr>
-<td width="70%">
+<td width="70%" align="left">
 
 🔭 Working on <b>my first keylogger</b><br>
 ⚡ Fun fact: got into hacking after getting kicked off WiFi while gaming<br>
@@ -43,6 +44,7 @@
 </td>
 </tr>
 </table>
+</p>
 
 ---
 
