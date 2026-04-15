@@ -24,21 +24,25 @@
 
 ## 🔭 About Me
 
-<p align="center">
+<table>
+<tr>
+<td width="70%">
+
 🔭 Working on <b>my first keylogger</b><br>
 ⚡ Fun fact: got into hacking after getting kicked off WiFi while gaming<br>
 🌱 Learning cybersecurity & development
-</p>
 
----
+</td>
 
-## 📫 Connect
+<td width="30%" align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yassin-kamal-simo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/yassin-kamal-simo/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
