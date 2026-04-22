@@ -81,7 +81,5 @@ Batch-based multitool that provides quick access to frequently used tools and sy
 
 <p align="center">
   <img height="150"
-    src="https://github-readme-stats.vercel.app/api?username=YassinKamal345&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassinKamal345&layout=compact&theme=radical&hide_border=true"/>
 </p>
