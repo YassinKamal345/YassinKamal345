@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yassin Kamal</h1>
-
 <h3 align="center">A passionate hacker from Spain</h3>
 
 <p align="center">
@@ -80,6 +79,30 @@ Batch-based multitool that provides quick access to frequently used tools and sy
 ## 📊 GitHub Stats
 
 <p align="center">
+
+<!-- MAIN STATS -->
+<img height="150"
+  src="https://github-readme-stats.vercel.app/api?username=YassinKamal345&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+<!-- LANGUAGES -->
+<img height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassinKamal345&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+
+</p>
+
+---
+
+## 🔥 Streak Stats (fallback si falla arriba)
+
+<p align="center">
   <img height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassinKamal345&layout=compact&theme=radical&hide_border=true"/>
+    src="https://streak-stats.demolab.com?user=YassinKamal345&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Extra (opcional pero recomendado)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YassinKamal345&theme=radical"/>
 </p>
