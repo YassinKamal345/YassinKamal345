@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yassin Kamal</h1>
-<h3 align="center">A passionate hacker from Spain</h3>
+<h3 align="center">A passionate hacker from Spain · ASIX student on the path to pentesting</h3>
+
+<p align="center">
+  <a href="https://portfolio-sand-eight-20.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_my_portfolio-39ff14?style=for-the-badge&logoColor=black" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf992f16-e111-460d-bb73-1e36ad446c58" width="80%"/>
@@ -27,9 +33,11 @@
 <tr>
 <td width="70%" align="left">
 
-🔭 Working on <b>my first keylogger</b><br>
-⚡ Fun fact: got into hacking after getting kicked off WiFi while gaming<br>
-🌱 Learning cybersecurity & development
+🎓 Final-year <b>ASIX</b> (Systems Administration) student in Barcelona<br>
+💼 <b>IT Support Intern</b> @ Ukio<br>
+🎯 Goal: becoming a <b>penetration tester</b><br>
+📜 <b>Google Cybersecurity</b> certified · next up: <b>CompTIA Security+</b><br>
+⚡ Fun fact: got into hacking after getting kicked off WiFi while gaming
 
 </td>
 
@@ -37,6 +45,10 @@
 
 <a href="https://www.linkedin.com/in/yassin-kamal-simo/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+</a>
+&nbsp;
+<a href="mailto:yassinksimo@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 </td>
@@ -48,32 +60,51 @@
 ## 🧰 Tools
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="35"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/>
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+</p>
+
+<p align="center">
+  <b>Security:</b> Nmap · Metasploit · Burp Suite · Wireshark · John the Ripper<br>
+  <b>Infra:</b> Proxmox · OPNsense · WireGuard · Gitea · Uptime Kuma · GNS3
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
-Simple Python-based keylogger for learning keystroke capture and system-level input handling.
+### 📦 NoSub — ASIX final project
+Self-hosted infrastructure with no subscriptions: a mini-PC "box" for customers (AdGuard, apps, WireGuard VPN) and an HQ lab on Proxmox with OPNsense (6 VLANs), PostgreSQL, Gitea, Grafana and Uptime Kuma — all deployed with Ansible and rebuildable in minutes.
 
-### 🌐 <a href="https://github.com/YassinKamal345/CV_html-css">CV Website</a>
-Personal CV website built with HTML and CSS to showcase skills, experience, and projects.
+### 🌐 <a href="https://portfolio-sand-eight-20.vercel.app">Portfolio</a>
+Bilingual (EN/ES) personal portfolio built from scratch with HTML, CSS and JavaScript · <a href="https://github.com/YassinKamal345/portfolio">repo</a>
+
+### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
+Educational Python keylogger built in a controlled lab to understand keystroke capture and system-level input handling.
+
+### 📄 <a href="https://github.com/YassinKamal345/CV_html-css">CV Website</a>
+Personal CV website built with HTML and CSS · <a href="https://cv-html-css-five.vercel.app">live</a>
 
 ### 🔐 <a href="https://github.com/YassinKamal345/Multitool">Multitool</a>
 Batch-based multitool that provides quick access to frequently used tools and system shortcuts.
