@@ -100,6 +100,9 @@ Self-hosted infrastructure with no subscriptions: a mini-PC "box" for customers 
 ### 🌐 <a href="https://portfolio-sand-eight-20.vercel.app">Portfolio</a>
 Bilingual (EN/ES) personal portfolio built from scratch with HTML, CSS and JavaScript · <a href="https://github.com/YassinKamal345/portfolio">repo</a>
 
+### 🧠 <a href="https://yassinkamal345.github.io/ccna1-quiz/">CCNA 1 Practice Exam</a>
+Interactive quiz to prepare the CCNA 1 (ITN v7) exam: 200+ original questions across all 17 modules, random 20-question batches with score, per-module breakdown and explained answers, plus a built-in calculator with binary/hex view for subnetting · <a href="https://github.com/YassinKamal345/ccna1-quiz">repo</a>
+
 ### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
 Educational Python keylogger built in a controlled lab to understand keystroke capture and system-level input handling.
 
