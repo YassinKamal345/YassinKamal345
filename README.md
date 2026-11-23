@@ -103,6 +103,15 @@ Bilingual (EN/ES) personal portfolio built from scratch with HTML, CSS and JavaS
 ### 🧠 <a href="https://yassinkamal345.github.io/ccna1-quiz/">CCNA 1 Practice Exam</a>
 Interactive quiz to prepare the CCNA 1 (ITN v7) exam: 200+ original questions across all 17 modules, random 20-question batches with score, per-module breakdown and explained answers, plus a built-in calculator with binary/hex view for subnetting · <a href="https://github.com/YassinKamal345/ccna1-quiz">repo</a>
 
+### 🛒 <a href="https://github.com/YassinKamal345/Raikko-Laravel">Raikko</a>
+E-commerce web app built with Laravel Breeze (PHP, Blade): authentication with roles, product catalog with images and sizes, cart, checkout and orders, plus an admin panel.
+
+### ✈️ <a href="https://travel-dashboard-drab.vercel.app">Travel Dashboard</a>
+Weather and live currency conversion for 5 cities using public APIs (Open-Meteo, Frankfurter), vanilla JS and responsive design · <a href="https://github.com/YassinKamal345/Travel-Dashboard">repo</a>
+
+### 🧹 <a href="https://github.com/YassinKamal345/WinCleaner">WinCleaner</a>
+Windows cleaning tool with a Python/tkinter GUI: temp files, prefetch, logs and disk usage analysis.
+
 ### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
 Educational Python keylogger built in a controlled lab to understand keystroke capture and system-level input handling.
 
