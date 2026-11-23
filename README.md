@@ -87,7 +87,7 @@
 
 <p align="center">
   <b>Security:</b> Nmap · Metasploit · Burp Suite · Wireshark · John the Ripper<br>
-  <b>Infra:</b> Proxmox · OPNsense · WireGuard · Gitea · Uptime Kuma · GNS3
+  <b>Infra:</b> Proxmox · OPNsense · WireGuard · Gitea · Prometheus · Grafana · GNS3
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## 🚀 Projects
 
 ### 📦 <a href="https://github.com/YassinKamal345/nosub-infra">NoSub — ASIX final project</a>
-Self-hosted infrastructure with no subscriptions: a mini-PC "box" for customers (AdGuard, apps, WireGuard VPN) and an HQ lab on Proxmox with OPNsense (6 VLANs), PostgreSQL, Gitea, Grafana and Uptime Kuma — all deployed with Ansible and rebuildable in minutes.
+Self-hosted infrastructure with no subscriptions: a mini-PC "box" for customers (AdGuard, apps, WireGuard VPN) and an HQ lab on Proxmox with OPNsense (6 VLANs), PostgreSQL, Gitea, Prometheus and Grafana — all deployed with Ansible and rebuildable in minutes.
 
 ### 🌐 <a href="https://portfolio-sand-eight-20.vercel.app">Portfolio</a>
 Bilingual (EN/ES) personal portfolio built from scratch with HTML, CSS and JavaScript · <a href="https://github.com/YassinKamal345/portfolio">repo</a>
