@@ -94,7 +94,7 @@
 
 ## 🚀 Projects
 
-### 📦 NoSub — ASIX final project
+### 📦 <a href="https://github.com/YassinKamal345/nosub-infra">NoSub — ASIX final project</a>
 Self-hosted infrastructure with no subscriptions: a mini-PC "box" for customers (AdGuard, apps, WireGuard VPN) and an HQ lab on Proxmox with OPNsense (6 VLANs), PostgreSQL, Gitea, Grafana and Uptime Kuma — all deployed with Ansible and rebuildable in minutes.
 
 ### 🌐 <a href="https://portfolio-sand-eight-20.vercel.app">Portfolio</a>
