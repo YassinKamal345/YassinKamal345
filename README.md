@@ -103,6 +103,15 @@ Bilingual (EN/ES) personal portfolio built from scratch with HTML, CSS and JavaS
 ### 🧠 <a href="https://yassinkamal345.github.io/ccna1-quiz/">CCNA 1 Practice Exam</a>
 Interactive quiz to prepare the CCNA 1 (ITN v7) exam: 200+ original questions across all 17 modules, random 20-question batches with score, per-module breakdown and explained answers, plus a built-in calculator with binary/hex view for subnetting · <a href="https://github.com/YassinKamal345/ccna1-quiz">repo</a>
 
+### 🛡️ <a href="https://github.com/YassinKamal345/WinAudit">WinAudit</a>
+Read-only Windows security baseline checker (Python): firewall, Defender, UAC, RDP, SMBv1, updates, BitLocker and listening ports, with a score and recommendations.
+
+### 📡 <a href="https://github.com/YassinKamal345/NetScanner">NetScanner</a>
+TCP host and port scanner in pure Python (no root, no dependencies) to discover live hosts and open ports on your own network.
+
+### 🔐 <a href="https://github.com/YassinKamal345/PassKit">PassKit</a>
+Password toolkit (Python): generator, strength meter and breach check against Have I Been Pwned using k-anonymity (only the hash prefix leaves your machine).
+
 ### 🛒 <a href="https://github.com/YassinKamal345/Raikko-Laravel">Raikko</a>
 E-commerce web app built with Laravel Breeze (PHP, Blade): authentication with roles, product catalog with images and sizes, cart, checkout and orders, plus an admin panel.
 
@@ -111,6 +120,9 @@ Weather and live currency conversion for 5 cities using public APIs (Open-Meteo,
 
 ### 🧹 <a href="https://github.com/YassinKamal345/WinCleaner">WinCleaner</a>
 Windows cleaning tool with a Python/tkinter GUI: temp files, prefetch, logs and disk usage analysis.
+
+### 🗂️ <a href="https://github.com/YassinKamal345/DupeFinder">DupeFinder</a>
+Finds and removes duplicate files by content (size + SHA-256). Single Python file, safe by default, keeps one copy per group.
 
 ### 🕵️ <a href="https://github.com/YassinKamal345/Python_Keylogger">Keylogger Project</a>
 Educational Python keylogger built in a controlled lab to understand keystroke capture and system-level input handling.
